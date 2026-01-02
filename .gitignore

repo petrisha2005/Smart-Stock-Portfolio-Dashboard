@@ -1,0 +1,11 @@
+bin/
+.settings/
+.classpath
+.project
+*.class
+
+# Ignore external libraries
+*.jar
+
+# Mac system files
+.DS_Store
